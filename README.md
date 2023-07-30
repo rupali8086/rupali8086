@@ -1,17 +1,6 @@
 ### Hi , Rupali Mesharam here 👋
 ## About me
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
+ 
 <!--
 **rupali8086/rupali8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
