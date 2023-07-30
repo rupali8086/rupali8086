@@ -5,3 +5,11 @@
 - 📫 How to reach me: [...](https://www.linkedin.com/in/rupali-meshram/)https://www.linkedin.com/in/rupali-meshram/
 - ⚡ Fun fact: I love coding
 
+
+**🛠  Languages and Tools**
+Python JavaScript
+HTML5 CSS3 Bootstrap5 Tailwind CSS
+Django Django REST Framework Flask React JS
+MySQL PostgreSQL
+Heroku Digital Ocean
+Git GitHub Linux Visual Studio Code Postman Photoshop
