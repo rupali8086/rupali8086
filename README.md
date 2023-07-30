@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi , Rupali Mesharam here 👋
+## About me
+*I am a full stack developer 
+*Love to learn everyday
 
 <!--
 **rupali8086/rupali8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
