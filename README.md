@@ -7,9 +7,10 @@
 
 
 **🛠  Languages and Tools**
-Python JavaScript
+Python
+JavaScript
 HTML5 CSS3 Bootstrap5 Tailwind CSS
-Django Django REST Framework Flask React JS
+REST Framework Flask React JS
 MySQL PostgreSQL
 Heroku Digital Ocean
 Git GitHub Linux Visual Studio Code Postman Photoshop
